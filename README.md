@@ -3,7 +3,7 @@
 
 📲 I am passionate about creating nice looking websites that feel great to use, and expanding my knowledge in the world of tech 💻
 
-🏢 Currently working as a graduate developer at Datacom 📡
+🏢 Currently working as an associate developer at Datacom 📡
 
 <br>
 
