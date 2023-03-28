@@ -1,9 +1,7 @@
 ## 👋😎 Kia ora! Welcome!
-✌ I'm Patrick (he/him or they/them), a full stack developer based in Wellington, New Zealand. 🇳🇿
+✌ I'm Patrick (he/him), a full stack developer based in Wellington, New Zealand. 🇳🇿
 
 📲 I am passionate about creating nice looking websites that feel great to use, and expanding my knowledge in the world of tech 💻
-
-🛠 In my spare time, I like to work on personal projects that enable me to learn new technologies and methodologies 👨‍💻
 
 🏢 Currently working as a graduate developer at Datacom 📡
 
